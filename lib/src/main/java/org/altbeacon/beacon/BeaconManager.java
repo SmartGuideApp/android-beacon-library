@@ -190,7 +190,7 @@ public class BeaconManager {
     /**
      * The default duration in milliseconds spent not scanning between each Bluetooth scan cycle when no ranging/monitoring clients are in the foreground
      */
-    public static final long DEFAULT_BACKGROUND_BETWEEN_SCAN_PERIOD = 5 * 60 * 1000;
+    public static final long DEFAULT_BACKGROUND_BETWEEN_SCAN_PERIOD = 6 * 1000;
     /**
      * The default duration in milliseconds of region exit time
      */
